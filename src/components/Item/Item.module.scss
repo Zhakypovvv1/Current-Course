@@ -1,0 +1,18 @@
+.home-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.home-button:hover {
+  background-color: #218838;
+}
+.home-result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
